@@ -1,11 +1,11 @@
+//import statements
+import java.util.Scanner;
 /**
  * This class simply asks the user to enter a five digit number and displays each 
  * number individually on a separate line.
  *  @author Richard Barney
  *  @version 1.0.0 September 2012
 */
-//import statements
-import java.util.Scanner;
 public class Assign1 {
 	/**
 	 * main method as required by JVM
