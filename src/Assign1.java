@@ -26,7 +26,7 @@ public class Assign1 {
 			num = input.nextInt();
 		}
 		
-	    //statement if 5 digits are entered
+		//statement if 5 digits are entered
 		System.out.print("The number is: " +"\n" +num/10000%10 +"\n" +num/1000%10 +"\n" +num/100%10 +"\n" +num/10%10 +"\n" +num%10);
 	} // end method main
 } //end class Assign1
